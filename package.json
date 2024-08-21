@@ -1,0 +1,18 @@
+{
+  "name": "wick-confessions-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Wick Studio",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.90",
+    "discord.js": "^14.15.3"
+  }
+}
